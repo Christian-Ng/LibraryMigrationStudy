@@ -1,0 +1,168 @@
+dependencies-1.6.0-2020-01-12.csv
+ID(0) | 8737
+ Platform(1) | Dub
+  Project Name(2) | a4g
+   Project ID(3) | 197
+    Version Number(4) | 0.1.0
+     Version ID(5) | 2
+      Dependency Name(6) | a4g:client
+       Dependency Platform(7) | Dub
+        Dependency Kind(8) | runtime
+         Optional Dependency(9) | false
+          Dependency Requirements(10) | *
+           Dependency Project ID(11) | 
+projects_with_repository_fields-1.6.0-2020-01-12.csv
+ID(0) | 1
+ Platform(1) | Alcatraz
+  Name(2) | 21st digital Templates
+   Created Timestamp(3) | 2015-01-11 23:56:18 UTC
+    Updated Timestamp(4) | 2020-01-14 01:16:02 UTC
+     Description(5) | "A starting point for stripped down
+      Keywords(6) |  structured and nib-less iOS applications including support for CocoaPods and Uncrustify."
+       Homepage URL(7) | ""
+        Licenses(8) | https://github.com/21stdigital/Xcode-Templates
+         Repository URL(9) | ""
+          Versions Count(10) | https://github.com/21stdigital/Xcode-Templates
+           SourceRank(11) | 0
+            Latest Release Publish Timestamp(12) | 5
+             Latest Release Number(13) | 2020-01-14 01:16:02 UTC
+              Package Manager ID(14) | 
+               Dependent Projects Count(15) | 
+                Language(16) | 0
+                 Status(17) | Objective-C
+                  Last synced Timestamp(18) | 
+                   Dependent Repositories Count(19) | 2020-01-14 01:16:02 UTC
+                    Repository ID(20) | 0
+                     Repository Host Type(21) | 3945
+                      Repository Name with Owner(22) | GitHub
+                       Repository Description(23) | 21stdigital/Xcode-Templates
+                        Repository Fork?(24) | "Stripped down
+                         Repository Created Timestamp(25) |  structured
+                          Repository Updated Timestamp(26) |  nib-less project & file templates"
+                           Repository Last pushed Timestamp(27) | false
+                            Repository Homepage URL(28) | 2014-07-16 19:33:01 UTC
+                             Repository Size(29) | 2018-10-14 13:03:20 UTC
+                              Repository Stars Count(30) | 2014-07-20 22:11:52 UTC
+                               Repository Language(31) | 
+                                Repository Issues enabled?(32) | 172
+                                 Repository Wiki enabled?(33) | 12
+                                  Repository Pages enabled?(34) | Objective-C
+                                   Repository Forks Count(35) | true
+                                    Repository Mirror URL(36) | false
+                                     Repository Open Issues Count(37) | false
+                                      Repository Default branch(38) | 1
+                                       Repository Watchers Count(39) | 
+                                        Repository UUID(40) | 0
+                                         Repository Fork Source Name with Owner(41) | master
+                                          Repository License(42) | 4
+                                           Repository Contributors Count(43) | 21914226
+                                            Repository Readme filename(44) | 
+                                             Repository Changelog filename(45) | 
+                                              Repository Contributing guidelines filename(46) | 1
+                                               Repository License filename(47) | README.md
+                                                Repository Code of Conduct filename(48) | ""
+                                                 Repository Security Threat Model filename(49) | ""
+                                                  Repository Security Audit filename(50) | ""
+                                                   Repository Status(51) | ""
+                                                    Repository Last Synced Timestamp(52) | ""
+                                                     Repository SourceRank(53) | ""
+                                                      Repository Display Name(54) | 
+                                                       Repository SCM type(55) | 2017-04-20 00:24:04 UTC
+                                                        Repository Pull requests enabled?(56) | 3
+                                                         Repository Logo URL(57) | GitHub
+                                                          Repository Keywords(58) | 
+projects-1.6.0-2020-01-12.csv
+ID(0) | 1
+ Platform(1) | Alcatraz
+  Name(2) | 21st digital Templates
+   Created Timestamp(3) | 2015-01-11 23:56:18 UTC
+    Updated Timestamp(4) | 2020-01-13 01:02:01 UTC
+     Description(5) | "A starting point for stripped down
+      Keywords(6) |  structured and nib-less iOS applications including support for CocoaPods and Uncrustify."
+       Homepage URL(7) | ""
+        Licenses(8) | https://github.com/21stdigital/Xcode-Templates
+         Repository URL(9) | ""
+          Versions Count(10) | https://github.com/21stdigital/Xcode-Templates
+           SourceRank(11) | 0
+            Latest Release Publish Timestamp(12) | 5
+             Latest Release Number(13) | 2020-01-13 01:01:47 UTC
+              Package Manager ID(14) | 
+               Dependent Projects Count(15) | 
+                Language(16) | 0
+                 Status(17) | Objective-C
+                  Last synced Timestamp(18) | 
+                   Dependent Repositories Count(19) | 2020-01-13 01:01:53 UTC
+                    Repository ID(20) | 0
+repositories-1.6.0-2020-01-12.csv
+ID(0) | 1
+ Host Type(1) | GitHub
+  Name with Owner(2) | brianmhunt/knockout-modal
+   Description(3) | Opinionated modals with Knockout.js
+    Fork(4) | false
+     Created Timestamp(5) | 2014-09-15 01:21:34 UTC
+      Updated Timestamp(6) | 2016-12-28 16:33:17 UTC
+       Last pushed Timestamp(7) | 2016-12-18 18:31:32 UTC
+        Homepage URL(8) | http://brianmhunt.github.io/knockout-modal/
+         Size(9) | 512
+          Stars Count(10) | 7
+           Language(11) | JavaScript
+            Issues enabled(12) | true
+             Wiki enabled(13) | true
+              Pages enabled(14) | true
+               Forks Count(15) | 0
+                Mirror URL(16) | 
+                 Open Issues Count(17) | 1
+                  Default branch(18) | master
+                   Watchers Count(19) | 2
+                    UUID(20) | 24038237
+                     Fork Source Name with Owner(21) | 
+                      License(22) | MIT
+                       Contributors Count(23) | 1
+                        Readme filename(24) | README.md
+                         Changelog filename(25) | ""
+                          Contributing guidelines filename(26) | ""
+                           License filename(27) | LICENSE
+                            Code of Conduct filename(28) | ""
+                             Security Threat Model filename(29) | ""
+                              Security Audit filename(30) | ""
+                               Status(31) | 
+                                Last Synced Timestamp(32) | 2016-05-27 15:42:48 UTC
+                                 SourceRank(33) | 5
+                                  Display Name(34) | GitHub
+                                   SCM type(35) | 
+                                    Pull requests enabled(36) | 
+                                     Logo URL(37) | 
+                                      Keywords(38) | 
+repository_dependencies-1.6.0-2020-01-12.csv
+ID(0) | 48593218
+ Host Type(1) | GitHub
+  Repository Name with Owner(2) | brianmhunt/knockout-modal
+   Repository ID(3) | 1
+    Manifest Platform(4) | Bower
+     Manifest Filepath(5) | bower.json
+      Git branch(6) | 
+       Manifest kind(7) | manifest
+        Optional(8) | 
+         Dependency Project Name(9) | knockout
+          Dependency Requirements(10) | ~3.2.0
+           Dependency Kind(11) | development
+            Dependency Project ID(12) | 15957
+tags-1.6.0-2020-01-12.csv
+ID(0) | 1
+ Host Type(1) | GitHub
+  Repository Name with Owner(2) | brianmhunt/knockout-modal
+   Repository ID(3) | 1
+    Tag Name(4) | 0.7.0
+     Tag git sha(5) | b6bf1152b1e6e757a09812c30b713dec21a3a752
+      Tag Published Timestamp(6) | 2014-09-16 19:08:29 UTC
+       Tag Created Timestamp(7) | 2015-03-06 22:59:14 UTC
+        Tag Updated Timestamp(8) | 2015-03-06 22:59:14 UTC
+versions-1.6.0-2020-01-12.csv
+ID(0) | 2
+ Platform(1) | Dub
+  Project Name(2) | a4g
+   Project ID(3) | 197
+    Number(4) | 0.1.0
+     Published Timestamp(5) | 2014-12-06 21:23:52 UTC
+      Created Timestamp(6) | 2015-01-11 23:58:26 UTC
+       Updated Timestamp(7) | 2015-02-17 08:56:19 UTC
